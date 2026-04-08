@@ -1,3 +1,5 @@
+# File: generate_embeddings.py
+
 import torch
 import os
 import numpy as np
